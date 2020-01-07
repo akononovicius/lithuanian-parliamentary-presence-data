@@ -16,9 +16,8 @@ available as `attendance-daily-abs.csv`. `attendance-daily-abs.csv` has both
 header row (the dates) and index column (the representative ids).
 
 `attendance-2008.csv` and `attendance-2012.csv` are the data files used for
-analysis in an article "Noisy voter model for the anomalous diffusion of
-parliamentary presence" by A. Kononovicius (reference to the paper will be
-added later). They were obtained by doing some additional processing of
+analysis in [1].
+They were obtained by doing some additional processing of
 `attendance-daily-abs.csv`. Additional steps include:
 
 * Subsetting the data based on the legislature.
@@ -35,5 +34,9 @@ These files have exactly 141 rows, which are filled with 1 and 0.
 
 The original data is available under
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. You are free
-to use our aggregated data freely. Though references to the article would be
+to use our aggregated data freely. Though references to [1] would be
 appreciated.
+
+## Reference
+
+1. A. Kononovicius. *Noisy voter model for the anomalous diffusion of parliamentary presence*. [arXiv:2001.01479 [physics.soc-ph]](https://arxiv.org/abs/2001.01479).
