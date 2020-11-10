@@ -37,6 +37,10 @@ The original data is available under
 to use our aggregated data freely. Though references to [1] would be
 appreciated.
 
+## Updates
+
+**2020-11-10:** Added data for the 2016-2020 legislature.
+
 ## Reference
 
 1. A. Kononovicius. *Noisy voter model for the anomalous diffusion of parliamentary presence*.
